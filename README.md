@@ -64,18 +64,30 @@ This project is intended to support:
 
 ---
 
-# Responsible AI Principles
+## Responsible AI Principles
 
-This project is being designed around the following principles:
+This project is designed to support responsible, evidence-based genealogy research and review. The goal is to help users improve the accuracy and consistency of family tree data while keeping humans responsible for all final decisions and updates.
 
-- Human-reviewed updates only
-- No autonomous bulk editing
-- Evidence-first workflows
-- Source-supported conclusions
-- Confidence scoring instead of certainty
-- Merge safety validation
-- Transparency in AI-generated suggestions
-- Preservation of genealogical data quality
+## Human-Reviewed Changes
+The system is intended to assist users, not replace them. All suggested changes, merges, relationships, and conclusions should be reviewed and approved by a human before updates are made.
+
+## Evidence-First Workflows
+Suggestions should be based on available records, sources, timelines, and relationships rather than assumptions or unsupported conclusions.
+
+## Confidence, Not Certainty
+The platform should provide confidence estimates and supporting reasoning rather than presenting uncertain information as guaranteed fact.
+
+## Duplicate & Merge Safety
+Special care should be taken around duplicate detection and merge suggestions to reduce the risk of combining unrelated individuals or damaging existing genealogy work.
+
+## Transparency
+Users should be able to understand why a suggestion or warning was generated, including the records, dates, locations, and relationships involved.
+
+## Preservation of Data Quality
+The project is intended to help reduce unsupported conclusions, accidental misinformation, and unsafe edits within collaborative genealogy environments.
+
+## Respect for Platform Policies
+Any integration with FamilySearch or other genealogy platforms should follow API terms, rate limits, and data usage policies.
 
 The system is intended to assist researchers, not replace them.
 
